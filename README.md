@@ -2,9 +2,9 @@
 
 # IMPLEMENTATION OF SYMBOL TABLE
 
-# Register Number : 212223100040
+# Register Number : 212223220015
 
-#Name : Nishanth J
+# Name : charan kumar s
 
 # Date :25|08|2025
 
